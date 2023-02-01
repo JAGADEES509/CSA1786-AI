@@ -22,7 +22,7 @@ def N_queens(n):
                     return True
                 board[i][j] = 0
     return False
-N_queens👎
+N_queens
 
 for i in board:
     print (i)
